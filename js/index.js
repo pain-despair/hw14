@@ -6,5 +6,5 @@ function generateKey(length, characters) {
     }
     return result
 }
-let key = generateKey(7, sawrogfiha3)
+let key = generateKey(7, 'sawrogfiha3')
 console.log(key);
